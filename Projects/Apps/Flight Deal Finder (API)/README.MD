@@ -1,0 +1,1 @@
+# Find the Cheapest Flight from YYC to any of the City that we put in the google sheet, choosing the departure and the return date, and it will send you whatsapp message when the flight is cheaper than your predetermined amount
